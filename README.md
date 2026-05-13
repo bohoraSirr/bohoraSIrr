@@ -16,7 +16,7 @@
 
 -  I’m currently learning **Devops and deployment**
 
--  I’m looking for help with **System Design**
+-  I’m looking for help with **Deployment**
 
 -  I also work as Executive Member in CSIT Association of Nepal
 
