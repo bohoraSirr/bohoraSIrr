@@ -1,7 +1,7 @@
-<h1 align="left">Welcome, I'm Biwash Bohora</h1>
+<h1 align="left">Hello, I'm Biwash Bohora</h1>
 
 <p align="left">
-  I am a Software Engineer focused on Full-Stack Development & AI Powered Products<br>
+  I am a CS undergrad focused on Full-Stack Development & AI Powered Products<br>
   Currently building projects, learning deeply, and turning ideas into products.
 </p>
 
