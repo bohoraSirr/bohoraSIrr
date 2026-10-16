@@ -18,8 +18,6 @@
 
 -  I’m looking for help with **Deployment**
 
--  I also work as Executive Member in CSIT Association of Nepal
-
 -  How to reach me **biwashbohora55@gmail.com**
 
  ⚡ Fun fact **My keyboard speaks more than me**
